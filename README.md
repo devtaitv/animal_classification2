@@ -1,6 +1,6 @@
 Dataset: https://www.kaggle.com/datasets/andrewmvd/animal-faces
 
-Train mode:
+Train model:
 
 ![Screenshot from 2024-11-15 10-57-04](https://github.com/user-attachments/assets/6751a0ef-7bb2-4592-817f-40be66b1ce51)
 
