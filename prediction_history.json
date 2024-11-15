@@ -1,0 +1,62 @@
+[
+    {
+        "image_path": "/home/devtaitv/Downloads/Dataset/Validation/Dog/flickr_dog_000116.jpg",
+        "prediction": "Dog",
+        "confidence": 99.86186027526855,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/Downloads/Dataset/Validation/Dog/flickr_dog_000116.jpg",
+        "prediction": "Dog",
+        "confidence": 99.86186027526855,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/Downloads/Dataset/Validation/Dog/pixabay_dog_002956.jpg",
+        "prediction": "Dog",
+        "confidence": 99.9966025352478,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/Downloads/Dataset/Validation/Cat/flickr_cat_000016.jpg",
+        "prediction": "Cat",
+        "confidence": 93.867988884449,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/Downloads/Dataset/Validation/Cat/flickr_cat_000016.jpg",
+        "prediction": "Cat",
+        "confidence": 93.867988884449,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/Downloads/Dataset/Validation/Cat/pixabay_cat_000876.jpg",
+        "prediction": "Cat",
+        "confidence": 95.26463113725185,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/Downloads/Dataset/Validation/Cat/pixabay_cat_003931.jpg",
+        "prediction": "Cat",
+        "confidence": 98.77793779596686,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/PycharmProjects/animal_classification2/Dataset/Validation/Cat/pixabay_cat_001687.jpg",
+        "prediction": "Cat",
+        "confidence": 99.99999955009451,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/PycharmProjects/animal_classification2/Dataset/Validation/Cat/flickr_cat_000016.jpg",
+        "prediction": "Cat",
+        "confidence": 99.65983591973782,
+        "model": "CNN"
+    },
+    {
+        "image_path": "/home/devtaitv/PycharmProjects/animal_classification2/Dataset/Validation/Dog/pixabay_dog_001561.jpg",
+        "prediction": "Dog",
+        "confidence": 99.97952580451965,
+        "model": "CNN"
+    }
+]
